@@ -4,8 +4,7 @@ This is my **personal portfolio website**, designed to showcase my skills, proje
 It features a **modern, responsive design** with a clean UI, smooth animations, and an interactive hero section with my profile image inside a stylish circular frame.
 
 ## 🚀 Live Demo
-[Visit Portfolio](https://singhakash1411.github.io/Personal-Portfolio/) *(Update with your actual link once deployed)*
-
+[Visit Portfolio](https://singhakash1411.github.io/Personal-Portfolio/) 
 ---
 
 ## 📌 Features
